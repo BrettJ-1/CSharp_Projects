@@ -1,0 +1,7 @@
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csproj.AssemblyReference.cache
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe.config
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.pdb
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.exe
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.pdb
