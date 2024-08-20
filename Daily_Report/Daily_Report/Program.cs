@@ -28,7 +28,7 @@ internal class Program
         string Course = Console.ReadLine(); //User can input string
 
         Console.WriteLine("C. What page number?"); //Creates Text Line
-        int PageNumber = Console.ReadLine().Length; //User can input integer
+        int PageNumber = Convert.ToInt32(Console.ReadLine()); //User can input integer
 
         Console.WriteLine("D. Do you need help with anything ? Please answer \"true\" or \"false\"."); //Creates Text Line
         string NeedsHelp = Console.ReadLine(); //User can input string that gets converted to a boolean output
