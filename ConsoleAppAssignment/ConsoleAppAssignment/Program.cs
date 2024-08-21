@@ -24,14 +24,17 @@ namespace ConsoleAppAssignment
                     Console.WriteLine("1. Not Like Us");
                     Console.WriteLine("2. I Had Some Help (ft. Morgan Wallen)");
                     Console.WriteLine("3. Espresso");
+                    break;
                 }
                 else if (response == "no") // Doesn't provide music suggestions
                 {
                     Console.WriteLine("Okay, I won't provide any recommendations for current music. Have a great day!");
+                    break;
                 }
                 else // Asks user to keep within specific guidelines
                 {
                     Console.WriteLine("Please answer with 'yes' or 'no'");
+                    Console.WriteLine();
                 }
                 Console.ReadLine();
 
@@ -54,9 +57,9 @@ namespace ConsoleAppAssignment
                 else
                 {
                     Console.WriteLine("Please answer with 'yes' or 'no'"); //Asks user to keep within specific guidelines
+                    Console.WriteLine();
                 }
                 Console.ReadLine();
-                break;
             }
         }
     }
