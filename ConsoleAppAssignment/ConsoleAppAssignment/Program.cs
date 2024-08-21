@@ -39,21 +39,21 @@ namespace ConsoleAppAssignment
 
             while (true)
             {
-                Console.WriteLine("Would you like to hear 80's music? (yes/no)");
+                Console.WriteLine("Would you like to hear 80's music? (yes/no)"); //Asks user a question
                 response = Console.ReadLine();
 
                 if (response == "yes")
                 {
-                    Console.WriteLine("Great! I would recommend 'Livin on a Prayer' by Bon Jovi");
+                    Console.WriteLine("Great! I would recommend 'Livin on a Prayer' by Bon Jovi"); //Provides an 80's music suggestion
                 }
 
                 else if (response == "no")
                 {
-                    Console.WriteLine("Okay, I won't provide any recommendations for 80's music. Have a great day!");
+                    Console.WriteLine("Okay, I won't provide any recommendations for 80's music. Have a great day!"); //Doesn't provide a music suggestion
                 }
                 else
                 {
-                    Console.WriteLine("Please answer with 'yes' or 'no'");
+                    Console.WriteLine("Please answer with 'yes' or 'no'"); //Asks user to keep within specific guidelines
                 }
                 Console.ReadLine();
                 break;
