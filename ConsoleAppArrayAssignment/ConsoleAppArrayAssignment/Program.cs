@@ -10,14 +10,15 @@ namespace ConsoleAppArrayAssignment
     {
         static void Main(string[] args)
         {
-            string[] stringArray = { "Car", "Truck", "Airplane", "Boat" };
-            Console.WriteLine("Choose a vehicle (1-4):");
-            if (stringArray.Length >= 4)
-            {
-                Console.WriteLine("You selected a " + stringArray.Length);
+            string[] Array = { "Car", "Truck", "Airplane", "Boat" };
+            Console.WriteLine("Choose a number between 0 and 3");
 
-                Console.ReadLine();
-            }
+            string Input =
+            Console.ReadLine();
+            int Index;
+
+            Console.WriteLine("You selected" + Input);
+
         }
     }
 }
