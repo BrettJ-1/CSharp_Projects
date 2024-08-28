@@ -114,31 +114,22 @@ namespace ConsoleAppSixPartAssignment
             {
                 if (animalCheck.Contains(animal))
                 {
-                    continue;
-                }
-                bool duplicate = false;
-                for (int i = 0; i < animalList.Count; i++)
-                {
-                    if (animal == animalCheck[i] && animalList.IndexOf(animal) != i)
-                    {
-                        duplicate = true;
-                        break;
-                    }
-                }
-                if (!duplicate)
-                {
                     Console.WriteLine($"{animal} - this animal is a duplicate");
                 }
-
                 else
+
                 {
                     Console.WriteLine($"{animal} - this animal is unique");
                 }
                 animalCheck.Add(animal);
+             
+                Console.ReadLine();
             }
-            Console.ReadLine();
         }
     }
+
 }
+
+
 
 
