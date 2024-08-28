@@ -68,13 +68,15 @@ namespace ConsoleAppSixPartAssignment
             {
                 if (videoGames[i] == seconduserInput)
                 {
-                    Console.WriteLine($"Are you searching for {i} ?");
                     gameTitle = true;
+                    Console.WriteLine($"Are you searching for {i} ?");
+                    Console.ReadLine();
                     break;
                 }
                 if (!gameTitle)
                 {
                     Console.WriteLine("Your game title is not on the list... we apologize for the inconvenience.");
+                    Console.ReadLine();
                 }
             }
         }
