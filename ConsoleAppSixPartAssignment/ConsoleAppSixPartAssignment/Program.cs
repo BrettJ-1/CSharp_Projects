@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics.Eventing.Reader;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -108,29 +109,36 @@ namespace ConsoleAppSixPartAssignment
 
             //Assignment Part Six
             List<string> animalList = new List<string>() { "Alligator", "Bumblebee", "Cat", "Dog", "Dog", "Elephant" };
+            List<string> animalCheck = new List<string>();
             foreach (string animal in animalList)
-
             {
-                bool duplicate = false;
-
-                foreach (string name in animalList)
+                if (animalCheck.Contains(animal))
                 {
-                    if (animal == name)
+                    continue;
+                }
+                bool duplicate = false;
+                for (int i = 0; i < animalList.Count; i++)
+                {
+                    if (animal == animalCheck[i] && animalList.IndexOf(animal) != i)
                     {
                         duplicate = true;
-                        Console.WriteLine($"{animal} - this animal is a duplicate");
                         break;
                     }
-                    else
-                    {
-                        Console.WriteLine($"{animal} - this animal is unique");
-                    }
-                    Console.ReadLine();
-
                 }
-                //End Assignment Part Six
+                if (!duplicate)
+                {
+                    Console.WriteLine($"{animal} - this animal is a duplicate");
+                }
+
+                else
+                {
+                    Console.WriteLine($"{animal} - this animal is unique");
+                }
+                animalCheck.Add(animal);
             }
+            Console.ReadLine();
         }
     }
 }
+
 
