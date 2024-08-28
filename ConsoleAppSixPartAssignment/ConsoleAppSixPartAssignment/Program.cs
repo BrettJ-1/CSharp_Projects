@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace ConsoleAppSixPartAssignment
@@ -61,24 +63,74 @@ namespace ConsoleAppSixPartAssignment
 
             List<string> videoGames = new List<string>() { "The Legend of Zelda", "Super Mario Bros.", "Call of Duty", "Madden" };
             Console.WriteLine("Search for game title: ");
-            string seconduserInput = Console.ReadLine();
+            string secondUserInput = Console.ReadLine();
 
             bool gameTitle = false;
             for (int i = 0; i < videoGames.Count; i++)
             {
-                if (videoGames[i] == seconduserInput)
+                if (videoGames[i] == secondUserInput)
                 {
                     gameTitle = true;
                     Console.WriteLine($"Are you searching for {i} ?");
                     Console.ReadLine();
                     break;
                 }
-                if (!gameTitle)
+
+            }
+            if (!gameTitle)
+            {
+                Console.WriteLine("Your game title is not on the list... we apologize for the inconvenience.");
+                Console.ReadLine();
+            }
+            //End Assignment Part Four
+
+            //Assignment Part Five
+
+            List<string> seasonList = new List<string>() { "Winter", "Autumn", "Summer", "Summer", "Spring" };
+            Console.WriteLine("Enter the name of a season:");
+            string thirdUserInput = Console.ReadLine();
+            bool season = false;
+            for (int i = 0; i < seasonList.Count; i++)
+                if (seasonList[i] == thirdUserInput)
                 {
-                    Console.WriteLine("Your game title is not on the list... we apologize for the inconvenience.");
+                    season = true;
+                    Console.WriteLine(seasonList.Count > 0);
+                    Console.WriteLine($"The season '{thirdUserInput}'is at indices {seasonList} ");
                     Console.ReadLine();
+                    break;
                 }
+            if (!season)
+            {
+                Console.WriteLine($"The season '{thirdUserInput}' is not a season.");
+                Console.ReadLine();
+            }
+            //End Assignment Part Five
+
+            //Assignment Part Six
+            List<string> animalList = new List<string>() { "Alligator", "Bumblebee", "Cat", "Dog", "Dog", "Elephant" };
+            foreach (string animal in animalList)
+
+            {
+                bool duplicate = false;
+
+                foreach (string name in animalList)
+                {
+                    if (animal == name)
+                    {
+                        duplicate = true;
+                        Console.WriteLine($"{animal} - this animal is a duplicate");
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine($"{animal} - this animal is unique");
+                    }
+                    Console.ReadLine();
+
+                }
+                //End Assignment Part Six
             }
         }
     }
 }
+
