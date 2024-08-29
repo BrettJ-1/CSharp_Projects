@@ -1,0 +1,2 @@
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.CoreCompileInputs.cache
