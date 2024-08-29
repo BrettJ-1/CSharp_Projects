@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MethodAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{989AC3C4-23E2-4CB8-926E-4C2BEB1505C5}|MethodAssignment\\MethodAssignment.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\methodassignment\\methodassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989AC3C4-23E2-4CB8-926E-4C2BEB1505C5}|MethodAssignment\\MethodAssignment.csproj|solutionrelative:methodassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989AC3C4-23E2-4CB8-926E-4C2BEB1505C5}|MethodAssignment\\MethodAssignment.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\methodassignment\\methodassignment\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989AC3C4-23E2-4CB8-926E-4C2BEB1505C5}|MethodAssignment\\MethodAssignment.csproj|solutionrelative:methodassignment\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MethodAssignment\\MethodAssignment\\Operations.cs",
+              "RelativeDocumentMoniker": "MethodAssignment\\Operations.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MethodAssignment\\MethodAssignment\\Operations.cs",
+              "RelativeToolTip": "MethodAssignment\\Operations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:49:39.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MethodAssignment\\MethodAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "MethodAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MethodAssignment\\MethodAssignment\\Program.cs",
+              "RelativeToolTip": "MethodAssignment\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:31:11.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
