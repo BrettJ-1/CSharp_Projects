@@ -8,7 +8,7 @@ namespace MethodAssignment
 {
     public class Operations
     {
-        public int Add(int firstNumber, int secondNumber = 2)
+        public int Add(int firstNumber, int secondNumber = 0)
         {
             return firstNumber + secondNumber;
         }
