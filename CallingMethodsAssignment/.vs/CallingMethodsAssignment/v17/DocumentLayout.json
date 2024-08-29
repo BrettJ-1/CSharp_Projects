@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{28DD5407-797A-4D69-9DC9-3214F3F034EC}|CallingMethodsAssignment\\CallingMethodsAssignment.csproj|solutionrelative:callingmethodsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28DD5407-797A-4D69-9DC9-3214F3F034EC}|CallingMethodsAssignment\\CallingMethodsAssignment.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\callingmethodsassignment\\callingmethodsassignment\\basicmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28DD5407-797A-4D69-9DC9-3214F3F034EC}|CallingMethodsAssignment\\CallingMethodsAssignment.csproj|C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\CallingMethodsAssignment\\callingmethodsassignment\\basicmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28DD5407-797A-4D69-9DC9-3214F3F034EC}|CallingMethodsAssignment\\CallingMethodsAssignment.csproj|solutionrelative:callingmethodsassignment\\basicmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "CallingMethodsAssignment\\Program.cs",
               "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\CallingMethodsAssignment\\CallingMethodsAssignment\\Program.cs",
               "RelativeToolTip": "CallingMethodsAssignment\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T17:54:06.948Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "CallingMethodsAssignment\\BasicMath.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAmwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T17:59:42.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T17:59:42.617Z"
             }
           ]
         }

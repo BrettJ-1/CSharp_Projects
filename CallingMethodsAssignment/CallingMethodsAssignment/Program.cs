@@ -14,8 +14,8 @@ namespace CallingMethodsAssignment
             Console.WriteLine("What number do you want to do math operations on?");
 
             string input = Console.ReadLine();
-            int userNumber;
-            userNumber = Convert.ToInt32(input);
+            int number;
+            number = Convert.ToInt32(input);
 
             Console.WriteLine();
             Console.ReadLine();
