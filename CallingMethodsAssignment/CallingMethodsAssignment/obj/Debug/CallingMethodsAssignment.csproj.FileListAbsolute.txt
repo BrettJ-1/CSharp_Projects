@@ -1,0 +1,7 @@
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\CallingMethodsAssignment.exe.config
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\CallingMethodsAssignment.exe
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\CallingMethodsAssignment.pdb
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.csproj.AssemblyReference.cache
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.exe
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.pdb
