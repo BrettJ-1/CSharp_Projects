@@ -31,7 +31,6 @@ namespace ConsoleAppStringsAndIntegersAssignment
                         {
                             Console.WriteLine("Divide by a number other than zero");
                             Console.WriteLine();
-                            break;
                         }
                     }
                 }
@@ -41,7 +40,6 @@ namespace ConsoleAppStringsAndIntegersAssignment
                 {
                     Console.WriteLine("Divide using an integer");
                     Console.WriteLine();
-                    break;
                 }
 
                 catch (OverflowException ex) //Catches using too large of a number
@@ -49,8 +47,8 @@ namespace ConsoleAppStringsAndIntegersAssignment
                 {
                     Console.WriteLine("Try using a smaller number");
                     Console.WriteLine();
-                    break;
                 }
+                break;
             }
             Console.WriteLine("The program is now outside the try/catch block of code. The next program can now be executed.");
             Console.ReadLine();
