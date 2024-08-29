@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MainMethodAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05603293-1777-4627-A925-38649435D5BA}|MainMethodAssignment\\MainMethodAssignment.csproj|C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MainMethodAssignment\\mainmethodassignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05603293-1777-4627-A925-38649435D5BA}|MainMethodAssignment\\MainMethodAssignment.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\mainmethodassignment\\mainmethodassignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05603293-1777-4627-A925-38649435D5BA}|MainMethodAssignment\\MainMethodAssignment.csproj|solutionrelative:mainmethodassignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05603293-1777-4627-A925-38649435D5BA}|MainMethodAssignment\\MainMethodAssignment.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\mainmethodassignment\\mainmethodassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05603293-1777-4627-A925-38649435D5BA}|MainMethodAssignment\\MainMethodAssignment.csproj|C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MainMethodAssignment\\mainmethodassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05603293-1777-4627-A925-38649435D5BA}|MainMethodAssignment\\MainMethodAssignment.csproj|solutionrelative:mainmethodassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "MainMethodAssignment\\MathOperations.cs",
               "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MainMethodAssignment\\MainMethodAssignment\\MathOperations.cs",
               "RelativeToolTip": "MainMethodAssignment\\MathOperations.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T20:04:52.908Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "MainMethodAssignment\\Program.cs",
               "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MainMethodAssignment\\MainMethodAssignment\\Program.cs",
               "RelativeToolTip": "MainMethodAssignment\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAsAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T19:29:24.186Z",
               "EditorCaption": ""

@@ -14,12 +14,16 @@ namespace MainMethodAssignment
 
             int intResult = ops.Operation(5);
             Console.WriteLine(intResult);
+            Console.ReadLine();
 
             int decimalResult = ops.Operation(12.34m);
             Console.WriteLine(decimalResult);
+            Console.ReadLine();
 
-            int stringResult = ops.Operation("hello");
+            int stringResult = ops.Operation("8");
             Console.WriteLine(stringResult);
+            Console.ReadLine();
+
         }
     }
 }

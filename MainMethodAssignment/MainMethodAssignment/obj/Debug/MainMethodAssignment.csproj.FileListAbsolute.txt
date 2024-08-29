@@ -1,2 +1,7 @@
 C:\Users\Brett\Documents\GitHub\CSharp_Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.AssemblyReference.cache
 C:\Users\Brett\Documents\GitHub\CSharp_Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe.config
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.pdb
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.exe
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.pdb
