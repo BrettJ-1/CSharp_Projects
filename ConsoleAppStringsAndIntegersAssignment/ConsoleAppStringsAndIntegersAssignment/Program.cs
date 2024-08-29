@@ -33,6 +33,7 @@ namespace ConsoleAppStringsAndIntegersAssignment
                             Console.WriteLine();
                         }
                     }
+                    break;
                 }
 
                 catch (FormatException ex) //Catches using other data types
@@ -48,7 +49,6 @@ namespace ConsoleAppStringsAndIntegersAssignment
                     Console.WriteLine("Try using a smaller number");
                     Console.WriteLine();
                 }
-                break;
             }
             Console.WriteLine("The program is now outside the try/catch block of code. The next program can now be executed.");
             Console.ReadLine();
