@@ -18,10 +18,10 @@ namespace MethodAssignment
 
             Console.WriteLine("Enter the second number (or skip):"); //Takes user input for second number
             input = Console.ReadLine();
-            int secondNumber = 0;
-            secondNumber = Convert.ToInt32(input); 
+            //int secondNumber = 0;
+            //secondNumber = Convert.ToInt32(input); 
             
-            int sum = ops.Add(firstNumber, secondNumber); //takes code from Operations.cs to add firstNumber and secondNumber
+            int sum = ops.Add(firstNumber); //takes code from Operations.cs to add firstNumber and secondNumber
             Console.WriteLine(sum);
             Console.ReadLine();
 
