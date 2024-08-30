@@ -10,7 +10,7 @@ namespace MethodClassAssignment
     {
         static void Main(string[] args)
         {
-            Operations ops = new Operations();
+            Operations ops = new Operations(); //Calculation from Operations.cs is applied towards firstNumber
             ops.operation(2, 0);
             ops.operation(firstNumber: 15, secondNumber: 0);
             Console.ReadLine();

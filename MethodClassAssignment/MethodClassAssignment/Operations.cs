@@ -8,9 +8,9 @@ namespace MethodClassAssignment
 {
     public class Operations
     {
-        public void operation (int firstNumber, int secondNumber)
+        public void operation (int firstNumber, int secondNumber) 
         {
-            int result = firstNumber + 5;
+            int result = firstNumber + 5; //Adds five to result of firstNumber
             Console.WriteLine (result);
         }
     }
