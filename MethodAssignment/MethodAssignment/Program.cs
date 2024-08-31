@@ -14,7 +14,16 @@ namespace MethodAssignment
             Operations ops = new Operations(); 
             Console.WriteLine("Enter 2 numbers. You do not have to enter anything for the second number:"); //Takes user input for first number
             string input = Console.ReadLine();
-            int firstNumber = Convert.ToInt32(input);
+            int firstNumber = 0;
+
+            try
+            {
+                firstNumber = Convert.ToInt32(input);
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Enter an integer.");
+            }
 
             Console.WriteLine("Enter the second number (or skip):"); //Takes user input for second number
             input = Console.ReadLine();

@@ -12,6 +12,7 @@ namespace MethodClassAssignment
         {
             int result = firstNumber + 5; //Adds five to result of firstNumber
             Console.WriteLine (result);
+            Console.WriteLine (secondNumber);
         }
     }
 }
