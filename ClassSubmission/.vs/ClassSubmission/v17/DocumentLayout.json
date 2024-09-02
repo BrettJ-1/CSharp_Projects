@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\ClassSubmission\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44B5D9E8-925B-43C2-8A4E-E4EA1E9B32F4}|ClassSubmission\\ClassSubmission.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\classsubmission\\classsubmission\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B5D9E8-925B-43C2-8A4E-E4EA1E9B32F4}|ClassSubmission\\ClassSubmission.csproj|solutionrelative:classsubmission\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44B5D9E8-925B-43C2-8A4E-E4EA1E9B32F4}|ClassSubmission\\ClassSubmission.csproj|C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\ClassSubmission\\classsubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B5D9E8-925B-43C2-8A4E-E4EA1E9B32F4}|ClassSubmission\\ClassSubmission.csproj|solutionrelative:classsubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44B5D9E8-925B-43C2-8A4E-E4EA1E9B32F4}|ClassSubmission\\ClassSubmission.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\classsubmission\\classsubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B5D9E8-925B-43C2-8A4E-E4EA1E9B32F4}|ClassSubmission\\ClassSubmission.csproj|solutionrelative:classsubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44B5D9E8-925B-43C2-8A4E-E4EA1E9B32F4}|ClassSubmission\\ClassSubmission.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\classsubmission\\classsubmission\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B5D9E8-925B-43C2-8A4E-E4EA1E9B32F4}|ClassSubmission\\ClassSubmission.csproj|solutionrelative:classsubmission\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Operations.cs",
               "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\ClassSubmission\\ClassSubmission\\Operations.cs",
               "RelativeDocumentMoniker": "ClassSubmission\\Operations.cs",
               "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\ClassSubmission\\ClassSubmission\\Operations.cs",
               "RelativeToolTip": "ClassSubmission\\Operations.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T01:35:12.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\ClassSubmission\\ClassSubmission\\Program.cs",
               "RelativeDocumentMoniker": "ClassSubmission\\Program.cs",
               "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\ClassSubmission\\ClassSubmission\\Program.cs",
               "RelativeToolTip": "ClassSubmission\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAApwA8AAAA0AAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAApwA4AAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T01:33:13.397Z",
               "EditorCaption": ""

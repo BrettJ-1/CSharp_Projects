@@ -12,8 +12,8 @@ namespace ClassSubmission
         {
             SecondOperations ops = new SecondOperations();
             Console.WriteLine("Enter an integer");
-            int input = Convert.ToInt32(Console.ReadLine());
-            SecondOperations.VisibleDivision(input);
+            int input = Convert.ToInt32(Console.ReadLine()); //Dividing an integer by 2
+            ops.VisibleDivision(input);
             Console.ReadLine();
         }
     }
