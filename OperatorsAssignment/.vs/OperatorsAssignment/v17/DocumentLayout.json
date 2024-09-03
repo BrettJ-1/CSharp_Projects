@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\OperatorsAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C22024AB-9828-4075-BE26-CD9D153C2458}|OperatorsAssignment\\OperatorsAssignment.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\operatorsassignment\\operatorsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22024AB-9828-4075-BE26-CD9D153C2458}|OperatorsAssignment\\OperatorsAssignment.csproj|solutionrelative:operatorsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22024AB-9828-4075-BE26-CD9D153C2458}|OperatorsAssignment\\OperatorsAssignment.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\operatorsassignment\\operatorsassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22024AB-9828-4075-BE26-CD9D153C2458}|OperatorsAssignment\\OperatorsAssignment.csproj|solutionrelative:operatorsassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\OperatorsAssignment\\OperatorsAssignment\\Employee.cs",
+              "RelativeDocumentMoniker": "OperatorsAssignment\\Employee.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\OperatorsAssignment\\OperatorsAssignment\\Employee.cs",
+              "RelativeToolTip": "OperatorsAssignment\\Employee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:13:08.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\OperatorsAssignment\\OperatorsAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "OperatorsAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\OperatorsAssignment\\OperatorsAssignment\\Program.cs",
+              "RelativeToolTip": "OperatorsAssignment\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:12:56.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

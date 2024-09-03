@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TwentyOne
 {
@@ -10,6 +6,12 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            Game game = new TwentyOneGame();
+            game.Players = new System.Collections.Generic.List<Player>();
+            Player player = new Player();
+            player.Name = "Jesse";
+            game += player;
+            game -= player;
 
             Deck deck = new Deck();
             deck.Shuffle(3);
