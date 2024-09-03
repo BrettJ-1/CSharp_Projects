@@ -10,7 +10,7 @@ namespace Lambda_Assignment
     {
         static void Main(string[] args)
         {
-            List<Employee> employees = new List<Employee>()
+            List<Employee> employees = new List<Employee>() //List of employees
             {
                 new Employee(1, "Ronald", "McDonald"),
                 new Employee(2, "Burger", "King"),
@@ -23,7 +23,8 @@ namespace Lambda_Assignment
                 new Employee(9, "Matt", "Olson"),
                 new Employee(10, "Shohei", "Ohtani"),
             };
-            List<Employee> employeesNamedJoe = new List<Employee>();
+
+            List<Employee> employeesNamedJoe = new List<Employee>(); //Adds string "Joe" to new list
             foreach (var employee in employees)
             {
 
@@ -32,18 +33,29 @@ namespace Lambda_Assignment
                     employeesNamedJoe.Add(employee);
                 }
             }
-            Console.WriteLine("Employees named Joe:");
-            Console.WriteLine($"{employeesNamedJoe}");
-            Console.ReadLine();
 
-            List<Employee> employeesNamedJoeLambda = employees.Where(x => x.FirstName == "Joe").ToList();
-            Console.WriteLine("Employees named Joe:");
-            Console.WriteLine($"{employeesNamedJoeLambda}");
-            Console.ReadLine();
+            Console.WriteLine("Employees named Joe:"); //Outputs any employee with first name "Joe"
+            foreach (var employee in employeesNamedJoe)
+            {
+                Console.WriteLine($"{employee.FirstName}{employee.LastName}");
+            }
+            Console.WriteLine();
 
-            List<Employee> IdMoreThanFive = employees.Where(x => x.Id > 5).ToList();
+            List<Employee> employeesNamedJoeLambda = employees.Where(x => x.FirstName == "Joe").ToList(); //Outputs any employee with first name "Joe"
+            Console.WriteLine("Employees named Joe:");
+            foreach (var employee in employeesNamedJoeLambda)
+            {
+                Console.WriteLine($"{employee.FirstName}{employee.LastName}");
+            }
+            Console.WriteLine();
+
+            List<Employee> IdMoreThanFive = employees.Where(x => x.Id > 5).ToList(); //Outputs Id's greater than 5
             Console.WriteLine("Employees with an Id greater than 5:");
-            Console.WriteLine($"{IdMoreThanFive}");
+            foreach (var employee in IdMoreThanFive)
+            {
+                Console.WriteLine($"{employee.Id}");
+            }
+
             Console.ReadLine();
         }
     }

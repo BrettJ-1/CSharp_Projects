@@ -11,7 +11,7 @@ namespace Lambda_Assignment
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public Employee(int id , string firstName, string lastName)
+        public Employee(int id , string firstName, string lastName) //setting the employee class with properties
         {
             Id = id;
             FirstName = firstName;
