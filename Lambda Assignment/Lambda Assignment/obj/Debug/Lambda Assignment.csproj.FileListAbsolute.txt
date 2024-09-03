@@ -1,0 +1,7 @@
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\Lambda Assignment\Lambda Assignment\obj\Debug\Lambda Assignment.csproj.AssemblyReference.cache
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\Lambda Assignment\Lambda Assignment\obj\Debug\Lambda Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\Lambda Assignment\Lambda Assignment\bin\Debug\Lambda Assignment.exe.config
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\Lambda Assignment\Lambda Assignment\bin\Debug\Lambda Assignment.exe
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\Lambda Assignment\Lambda Assignment\bin\Debug\Lambda Assignment.pdb
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\Lambda Assignment\Lambda Assignment\obj\Debug\Lambda Assignment.exe
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\Lambda Assignment\Lambda Assignment\obj\Debug\Lambda Assignment.pdb
