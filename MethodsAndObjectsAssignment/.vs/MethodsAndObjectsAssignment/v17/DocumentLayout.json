@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MethodsAndObjectsAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E01AA1-3D1B-428B-BF5C-402B80B967A6}|MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\methodsandobjectsassignment\\methodsandobjectsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E01AA1-3D1B-428B-BF5C-402B80B967A6}|MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment.csproj|solutionrelative:methodsandobjectsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E01AA1-3D1B-428B-BF5C-402B80B967A6}|MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\methodsandobjectsassignment\\methodsandobjectsassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E01AA1-3D1B-428B-BF5C-402B80B967A6}|MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment.csproj|solutionrelative:methodsandobjectsassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E01AA1-3D1B-428B-BF5C-402B80B967A6}|MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\methodsandobjectsassignment\\methodsandobjectsassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E01AA1-3D1B-428B-BF5C-402B80B967A6}|MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment.csproj|solutionrelative:methodsandobjectsassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment\\Employee.cs",
+              "RelativeDocumentMoniker": "MethodsAndObjectsAssignment\\Employee.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment\\Employee.cs",
+              "RelativeToolTip": "MethodsAndObjectsAssignment\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:03:03.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment\\Person.cs",
+              "RelativeDocumentMoniker": "MethodsAndObjectsAssignment\\Person.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment\\Person.cs",
+              "RelativeToolTip": "MethodsAndObjectsAssignment\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:00:21.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "MethodsAndObjectsAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment\\Program.cs",
+              "RelativeToolTip": "MethodsAndObjectsAssignment\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:54:58.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

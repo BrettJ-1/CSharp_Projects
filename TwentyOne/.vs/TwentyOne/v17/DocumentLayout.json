@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\twentyone\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +26,29 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Card.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\Card.cs",
-              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Card.cs",
-              "RelativeToolTip": "TwentyOne\\Card.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "DocumentIndex": 1,
+              "Title": "TwentyOneGame.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\TwentyOneGame.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
+              "RelativeToolTip": "TwentyOne\\TwentyOneGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:11:10.575Z",
-              "IsPinned": true
+              "WhenOpened": "2024-09-02T23:47:08.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Deck.cs",
-              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Deck.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\Deck.cs",
-              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Deck.cs",
-              "RelativeToolTip": "TwentyOne\\Deck.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwC4AAAAQAAAA",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Game.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\Game.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Game.cs",
+              "RelativeToolTip": "TwentyOne\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:19:19.62Z"
+              "WhenOpened": "2024-09-02T23:41:03.269Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -57,7 +58,7 @@
               "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
               "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeToolTip": "TwentyOne\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCAAAAALAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T04:05:37.362Z",
               "EditorCaption": ""
