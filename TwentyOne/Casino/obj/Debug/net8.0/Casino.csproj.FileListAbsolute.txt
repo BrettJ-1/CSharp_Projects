@@ -3,3 +3,10 @@ C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\obj\Debug\net8.
 C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.AssemblyInfo.cs
 C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.csproj.CoreCompileInputs.cache
 C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.sourcelink.json
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\bin\Debug\net8.0\Casino.deps.json
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\bin\Debug\net8.0\Casino.dll
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\bin\Debug\net8.0\Casino.pdb
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.dll
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\obj\Debug\net8.0\refint\Casino.dll
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.pdb
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\obj\Debug\net8.0\ref\Casino.dll

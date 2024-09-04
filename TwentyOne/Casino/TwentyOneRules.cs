@@ -68,7 +68,7 @@ namespace Casino.TwentyOne
             return false;
         }
 
-        public static bool CompareHands(List<Card> PlayerHand, List<Card> DealerHand)
+        public static bool? CompareHands(List<Card> PlayerHand, List<Card> DealerHand)
         {
             int[] playerResults = GetAllPossileHandValues(PlayerHand);
             int[] dealerResults = GetAllPossileHandValues(DealerHand);

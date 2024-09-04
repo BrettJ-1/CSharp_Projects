@@ -5,3 +5,6 @@ C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\TwentyOne\obj\Debug\Tw
 C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.Up2Date
