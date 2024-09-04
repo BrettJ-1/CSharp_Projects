@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\twentyone\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\casino\\twentyonerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|solutionrelative:casino\\twentyonerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|solutionrelative:casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\twentyone\\twentyonerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\twentyonerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\casino\\twentyonedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|solutionrelative:casino\\twentyonedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|solutionrelative:casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\twentyone\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\casino\\iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|solutionrelative:casino\\iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\twentyone\\twentyonedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\twentyonedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\casino\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|solutionrelative:casino\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\casino\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|solutionrelative:casino\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\twentyone\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F06987D-7D6F-4B72-9E7D-A5D681F5DB06}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\casino\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|solutionrelative:casino\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|solutionrelative:casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\twentyone\\casino\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55866004-FB8E-4C67-866E-0AEFE5FA925A}|Casino\\Casino.csproj|solutionrelative:casino\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +50,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TwentyOneRules.cs",
-              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\TwentyOneRules.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\TwentyOneRules.cs",
-              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\TwentyOneRules.cs",
-              "RelativeToolTip": "TwentyOne\\TwentyOneRules.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T22:20:02.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Program.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
-              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Program.cs",
-              "RelativeToolTip": "TwentyOne\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Title": "TwentyOneGame.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\TwentyOneGame.cs",
+              "RelativeDocumentMoniker": "Casino\\TwentyOneGame.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\TwentyOneGame.cs",
+              "RelativeToolTip": "Casino\\TwentyOneGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T01:46:36.457Z",
+              "WhenOpened": "2024-09-04T20:31:07.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dealer.cs",
-              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Dealer.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\Dealer.cs",
-              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Dealer.cs",
-              "RelativeToolTip": "TwentyOne\\Dealer.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBYAAAAtAAAA",
+              "Title": "TwentyOneRules.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\TwentyOneRules.cs",
+              "RelativeDocumentMoniker": "Casino\\TwentyOneRules.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\TwentyOneRules.cs",
+              "RelativeToolTip": "Casino\\TwentyOneRules.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwFAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T21:57:08.643Z",
+              "WhenOpened": "2024-09-04T20:31:13.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TwentyOneDealer.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\TwentyOneDealer.cs",
+              "RelativeDocumentMoniker": "Casino\\TwentyOneDealer.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\TwentyOneDealer.cs",
+              "RelativeToolTip": "Casino\\TwentyOneDealer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:31:01.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TwentyOneGame.cs",
-              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\TwentyOneGame.cs",
-              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
-              "RelativeToolTip": "TwentyOne\\TwentyOneGame.cs",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAYwGkAAAAjAAAA",
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\Player.cs",
+              "RelativeDocumentMoniker": "Casino\\Player.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\Player.cs",
+              "RelativeToolTip": "Casino\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T03:57:16.672Z",
+              "WhenOpened": "2024-09-04T20:30:54.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Player.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\Player.cs",
-              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Player.cs",
-              "RelativeToolTip": "TwentyOne\\Player.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCcAAAAYAAAA",
+              "Title": "IWalkAway.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\IWalkAway.cs",
+              "RelativeDocumentMoniker": "Casino\\IWalkAway.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\IWalkAway.cs",
+              "RelativeToolTip": "Casino\\IWalkAway.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T03:58:13.772Z",
+              "WhenOpened": "2024-09-04T20:30:48.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TwentyOneDealer.cs",
-              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\TwentyOneDealer.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\TwentyOneDealer.cs",
-              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\TwentyOneDealer.cs",
-              "RelativeToolTip": "TwentyOne\\TwentyOneDealer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\Game.cs",
+              "RelativeDocumentMoniker": "Casino\\Game.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\Game.cs",
+              "RelativeToolTip": "Casino\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T21:57:42.678Z",
+              "WhenOpened": "2024-09-04T20:30:44.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Card.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\Card.cs",
-              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Card.cs",
-              "RelativeToolTip": "TwentyOne\\Card.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\Deck.cs",
+              "RelativeDocumentMoniker": "Casino\\Deck.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\Deck.cs",
+              "RelativeToolTip": "Casino\\Deck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T17:40:37.776Z",
+              "WhenOpened": "2024-09-04T20:30:39.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\Dealer.cs",
+              "RelativeDocumentMoniker": "Casino\\Dealer.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\Dealer.cs",
+              "RelativeToolTip": "Casino\\Dealer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:30:27.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Deck.cs",
-              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Deck.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\Deck.cs",
-              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\TwentyOne\\Deck.cs",
-              "RelativeToolTip": "TwentyOne\\Deck.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAARAAAA",
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\Card.cs",
+              "RelativeDocumentMoniker": "Casino\\Card.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\Card.cs",
+              "RelativeToolTip": "Casino\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T17:46:55.856Z"
+              "WhenOpened": "2024-09-04T20:30:19.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\Class1.cs",
+              "RelativeDocumentMoniker": "Casino\\Class1.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TwentyOne\\Casino\\Class1.cs",
+              "RelativeToolTip": "Casino\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:26:10.824Z",
+              "EditorCaption": ""
             }
           ]
         }

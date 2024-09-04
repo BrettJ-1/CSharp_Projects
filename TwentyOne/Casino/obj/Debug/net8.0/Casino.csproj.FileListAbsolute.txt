@@ -1,0 +1,5 @@
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.AssemblyInfoInputs.cache
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.AssemblyInfo.cs
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Brett\Documents\GitHub\CSharp_Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.sourcelink.json
