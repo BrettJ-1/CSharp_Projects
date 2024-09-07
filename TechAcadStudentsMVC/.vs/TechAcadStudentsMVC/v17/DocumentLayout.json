@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TechAcadStudentsMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62DE9F52-A3F7-482B-9E38-2EFC5DCBB255}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\techacadstudentsmvc\\techacadstudentsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DE9F52-A3F7-482B-9E38-2EFC5DCBB255}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|solutionrelative:techacadstudentsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TechAcadStudentsMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TechAcadStudentsMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T21:30:54.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
