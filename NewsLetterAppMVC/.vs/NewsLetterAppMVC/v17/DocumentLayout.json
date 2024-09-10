@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\NewsLetterAppMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D794B-4763-41AE-879D-3DB0800ED4F8}|NewsLetterAppMVC\\NewsLetterAppMVC.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\newsletterappmvc\\newsletterappmvc\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B26D794B-4763-41AE-879D-3DB0800ED4F8}|NewsLetterAppMVC\\NewsLetterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D794B-4763-41AE-879D-3DB0800ED4F8}|NewsLetterAppMVC\\NewsLetterAppMVC.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\newsletterappmvc\\newsletterappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26D794B-4763-41AE-879D-3DB0800ED4F8}|NewsLetterAppMVC\\NewsLetterAppMVC.csproj|solutionrelative:newsletterappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D794B-4763-41AE-879D-3DB0800ED4F8}|NewsLetterAppMVC\\NewsLetterAppMVC.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\newsletterappmvc\\newsletterappmvc\\viewmodels\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26D794B-4763-41AE-879D-3DB0800ED4F8}|NewsLetterAppMVC\\NewsLetterAppMVC.csproj|solutionrelative:newsletterappmvc\\viewmodels\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D794B-4763-41AE-879D-3DB0800ED4F8}|NewsLetterAppMVC\\NewsLetterAppMVC.csproj|c:\\users\\brett\\documents\\github\\csharp_projects\\newsletterappmvc\\newsletterappmvc\\models\\newslettersignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26D794B-4763-41AE-879D-3DB0800ED4F8}|NewsLetterAppMVC\\NewsLetterAppMVC.csproj|solutionrelative:newsletterappmvc\\models\\newslettersignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\NewsLetterAppMVC\\NewsLetterAppMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NewsLetterAppMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\NewsLetterAppMVC\\NewsLetterAppMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NewsLetterAppMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAEwDsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:48:32.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\NewsLetterAppMVC\\NewsLetterAppMVC\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "NewsLetterAppMVC\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\NewsLetterAppMVC\\NewsLetterAppMVC\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "NewsLetterAppMVC\\Views\\Home\\Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T05:50:33.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignupVM.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\NewsLetterAppMVC\\NewsLetterAppMVC\\ViewModels\\SignupVM.cs",
+              "RelativeDocumentMoniker": "NewsLetterAppMVC\\ViewModels\\SignupVM.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\NewsLetterAppMVC\\NewsLetterAppMVC\\ViewModels\\SignupVM.cs",
+              "RelativeToolTip": "NewsLetterAppMVC\\ViewModels\\SignupVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:17:35.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsletterSignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\NewsLetterAppMVC\\NewsLetterAppMVC\\Models\\NewsletterSignUp.cs",
+              "RelativeDocumentMoniker": "NewsLetterAppMVC\\Models\\NewsletterSignUp.cs",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\GitHub\\CSharp_Projects\\NewsLetterAppMVC\\NewsLetterAppMVC\\Models\\NewsletterSignUp.cs",
+              "RelativeToolTip": "NewsLetterAppMVC\\Models\\NewsletterSignUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:47:14.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
