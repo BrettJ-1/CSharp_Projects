@@ -19,11 +19,59 @@ namespace CarInsurance.Controllers
             _context = context;
         }
 
-        // GET: Insurees
+        [HttpPost]
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Insurees.ToListAsync());
-        }
+			 decimal CalculateQuote(Insuree insuree)
+			{
+				decimal quote = 50;
+				int age = DateTime.Now.Year;
+
+				if (age <= 18)
+				{
+					quote += 100;
+				}
+				else if (age <= 19 && age <= 25)
+				{
+					quote += 50;
+				}
+				else quote += 25;
+
+				if (insuree.CarYear < 2000)
+				{
+					quote += 25;
+				}
+
+				if (insuree.CarYear > 2015)
+				{
+					quote += 25;
+				}
+
+				if (insuree.CarMake == "Porsche")
+				{
+					quote += 25;
+					if (insuree.CarModel == "911 Carrera")
+					{
+						quote += 25;
+					}
+				}
+
+				quote += 10 * insuree.SpeedingTickets;
+
+				if (insuree.DUI)
+				{
+					quote *= 1.25m;
+				}
+
+				if (insuree.CoverageType == "Full Coverage")
+				{
+					quote *= 1.5m;
+				}
+
+                return quote;
+			}
+            return View();
+		}
 
         // GET: Insurees/Details/5
         public async Task<IActionResult> Details(Guid? id)
@@ -65,6 +113,8 @@ namespace CarInsurance.Controllers
             }
             return View(insuree);
         }
+
+        
 
         // GET: Insurees/Edit/5
         public async Task<IActionResult> Edit(Guid? id)
